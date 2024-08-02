@@ -1,5 +1,58 @@
-.App {
+.header {
   text-align: center;
+  background-color:blueviolet;
+  height:10vh;
+  width:100%;
+  margin-top: 0%;
+  
+ 
+  
+}
+
+
+
+h1{
+  text-align: center;
+  color:chocolate;
+}
+h3{
+  color: red;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  
+  
+ 
+}
+
+
+li{
+  margin-right: 20px;
+  font-size: 25px;
+  
+  
+}
+
+.footer {
+  text-align: center;
+  background-color:blueviolet;
+  height: 10vh;
+  width:100%;
+  margin-top: 35%;
+  
+}
+
+
+button{
+  display:inline-block;
+  margin-left: 10px;
+  font-size: 20px;
+  text-decoration: none;
+  border: none;
+  
 }
 
 .App-logo {
