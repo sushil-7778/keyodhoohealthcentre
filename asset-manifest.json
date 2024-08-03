@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/keyodhoohealthcentre/static/css/main.e1869232.css",
-    "main.js": "/keyodhoohealthcentre/static/js/main.15e103ce.js",
+    "main.js": "/keyodhoohealthcentre/static/js/main.e3eb9c94.js",
     "static/js/453.e124dc88.chunk.js": "/keyodhoohealthcentre/static/js/453.e124dc88.chunk.js",
     "static/media/logo.svg": "/keyodhoohealthcentre/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/keyodhoohealthcentre/index.html",
     "main.e1869232.css.map": "/keyodhoohealthcentre/static/css/main.e1869232.css.map",
-    "main.15e103ce.js.map": "/keyodhoohealthcentre/static/js/main.15e103ce.js.map",
+    "main.e3eb9c94.js.map": "/keyodhoohealthcentre/static/js/main.e3eb9c94.js.map",
     "453.e124dc88.chunk.js.map": "/keyodhoohealthcentre/static/js/453.e124dc88.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1869232.css",
-    "static/js/main.15e103ce.js"
+    "static/js/main.e3eb9c94.js"
   ]
 }
